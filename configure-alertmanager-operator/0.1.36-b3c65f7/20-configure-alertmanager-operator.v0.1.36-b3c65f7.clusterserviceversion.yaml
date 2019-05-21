@@ -78,5 +78,5 @@ spec:
   maturity: alpha
   provider:
     name: Red Hat, Inc
-  replaces: 0.1.22-aded826
+  replaces: configure-alertmanager-operator.v0.1.22-aded826
   version: 0.1.36-b3c65f7
