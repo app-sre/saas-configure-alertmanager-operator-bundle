@@ -1,4 +1,4 @@
 packageName: hive-operator
 channels:
 - name: staging
-  currentCSV: configure-alertmanager-operator.v0.1.22-aded826
+  currentCSV: configure-alertmanager-operator.v0.1.36-b3c65f7
