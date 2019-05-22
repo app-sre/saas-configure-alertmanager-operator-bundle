@@ -1,4 +1,4 @@
 packageName: configure-alertmanager-operator
 channels:
 - name: staging
-  currentCSV: configure-alertmanager-operator.v0.1.44-1f5a494
+  currentCSV: configure-alertmanager-operator.v0.1.45-42d1e9c
