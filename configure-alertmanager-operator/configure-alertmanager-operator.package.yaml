@@ -1,4 +1,4 @@
 packageName: configure-alertmanager-operator
 channels:
 - name: production
-  currentCSV: configure-alertmanager-operator.v0.1.55-82c219c
+  currentCSV: configure-alertmanager-operator.v0.1.57-20f4550
